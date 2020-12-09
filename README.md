@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=masipro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=masipro&show_icons=true&title_color=a0a0ff&icon_color=a0a0ff&bg_color=4040e0&text_color=a0a0ff)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **masipro/masipro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
